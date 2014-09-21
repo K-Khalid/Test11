@@ -1,0 +1,6 @@
+Obj C 
+
+==========
+Compiler and interface builder == Xcode 
+Debugger == Instrements 
+OS = Mac 
